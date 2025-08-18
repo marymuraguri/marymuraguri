@@ -1,6 +1,6 @@
 # Hi, I’m Mary Muraguri👋  
 > *IT Graduate*  
-> Aspiring Software Developer  
+> Software Developer  
 > Problem Solver & Tech Enthusiast
 
 I enjoy building web and mobile applications, solving problems and learning new technologies.
