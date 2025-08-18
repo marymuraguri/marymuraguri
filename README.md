@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I’m Mary Muraguri👋
+> *IT Graduate*  
+> Aspiring Software Developer  
+> Problem Solver & Tech Enthusiast
 
-<!--
-**marymuraguri/marymuraguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building web and mobile applications, solving problems and learning new technologies.
 
-Here are some ideas to get you started:
+---  
+## 💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & Frameworks:**  
+Java | Kotlin | Python (Django, Flask) | JavaScript (ES6+) | TypeScript (basic) | React.js | Tailwind CSS | HTML5 | CSS3 | Bootstrap | Android Studio  
+
+**Databases & Data Management:**  
+MySQL | PostgreSQL | SQLite | MongoDB | Firebase (basic) | Pandas | NumPy  
+
+**Networking & IT Support:**  
+Network troubleshooting | System setup | Hardware/software configuration | Server administration basics | Wi-Fi & LAN setup | VPN configuration  
+
+**Version Control & Tools:**  
+Git | GitHub | GitLab | VS Code | Android Studio | Postman | Docker (basic) | Figma (UI/UX prototyping)  
+
+**Cloud & DevOps Basics:**  
+AWS (S3, EC2 basics) | Google Cloud Platform (GCP basics) | CI/CD pipelines (intro)  
+
+**Soft Skills:**  
+Problem-solving | Analytical thinking | Teamwork | Adaptability | Effective communication | Continuous learning  
+
+---  
+## 🚀 Projects  
+**Agri-Product Price Tracker | 2024**  
+- Developed with Flask, BeautifulSoup, MySQL, Pandas, and Plotly.  
+- Automates agricultural price scraping, analysis, and visualization for farmers and traders.  
+[🔗 Project Link](https://github.com/marymuraguri/Agri-Product-Price-Tracker)
+
+**Virtual Health Assistant | 2025**  
+- Django-based web platform for symptom checking, patient record management, and doctor-patient interaction.  
+[🔗 Project Link](https://github.com/marymuraguri/Virtual-Health-Assistant)
+
+**Android Mobile Applications | 2023–2024**  
+- Collection of Kotlin-based apps developed in Android Studio, focusing on UI design and mobile functionality practice.  
+[🔗 Project Link](https://github.com/marymuraguri/Android-Mini-Apps)
+
+---  
+## 📄 License
+
+This README is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt it, provided you give appropriate credit.
+
+**Canonical URL:** https://creativecommons.org/licenses/by/4.0/  
+**Legal Code:** https://creativecommons.org/licenses/by/4.0/legalcode
+
+---  
+**Deployment:** [Mary Muraguri's PORTFOLIO](https://marymuraguri.github.io/marymuraguri/)
+
+---   
+*With hands-on experience in software development, IT support and database management,* I am passionate about **building scalable web and mobile applications**, exploring new technologies and solving real-world problems through programming. *I actively participate in hackathons and tech bootcamps to continuously refine my skills.*
+
+---   
+## 🌐 Connect with Me
+
+- **Portfolio:** [Mary Muraguri](https://marymuraguri.github.io/marymuraguri/)  
+- **LinkedIn:** [Mary Muraguri](https://www.linkedin.com/in/marymuraguri/)  
+- **Email:**  [Mary Muraguri](mailto:marymuraguri27@gmail.com)
+
+---  
+&copy; August 17, 2025 - Sunday | All rights reserved.
