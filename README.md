@@ -1,4 +1,4 @@
-# Hi, I’m Mary Muraguri👋
+# Hi, I’m Mary Muraguri👋  
 > *IT Graduate*  
 > Aspiring Software Developer  
 > Problem Solver & Tech Enthusiast
@@ -44,7 +44,7 @@ Problem-solving | Analytical thinking | Teamwork | Adaptability | Effective comm
 ---  
 ## 📄 License
 
-This README is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+This README is licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** and **CC0-1.0 license**.  
 You are free to share and adapt it, provided you give appropriate credit.
 
 **Canonical URL:** https://creativecommons.org/licenses/by/4.0/  
@@ -64,4 +64,4 @@ You are free to share and adapt it, provided you give appropriate credit.
 - **Email:**  [Mary Muraguri](mailto:marymuraguri27@gmail.com)
 
 ---  
-&copy; August 17, 2025 - Sunday | All rights reserved.
+&copy; August 18, 2025 - Monday | All rights reserved.
