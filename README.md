@@ -1,6 +1,5 @@
 # Hi, I’m Mary Muraguri👋  
-> *IT Graduate*  
-> Software Developer  
+> *Software Developer*  
 > Problem Solver & Tech Enthusiast
 
 I enjoy building web and mobile applications, solving problems and learning new technologies.
@@ -29,12 +28,12 @@ Problem-solving | Analytical thinking | Teamwork | Adaptability | Effective comm
 ---  
 ## 🚀 Projects  
 **Agri-Product Price Tracker | 2024**  
-- Developed with Flask, BeautifulSoup, MySQL, Pandas, and Plotly.  
-- Automates agricultural price scraping, analysis, and visualization for farmers and traders.  
+- Developed with Flask, BeautifulSoup, MySQL, Pandas and Plotly.  
+- Automates agricultural price scraping, analysis and visualization for farmers and traders.  
 [🔗 Project Link](https://github.com/marymuraguri/Agri-Product-Price-Tracker)
 
 **Virtual Health Assistant | 2025**  
-- Django-based web platform for symptom checking, patient record management, and doctor-patient interaction.  
+- Django-based web platform for symptom checking, patient record management and doctor-patient interaction.  
 [🔗 Project Link](https://github.com/marymuraguri/Virtual-Health-Assistant)
 
 **Android Mobile Applications | 2023–2024**  
@@ -64,4 +63,6 @@ You are free to share and adapt it, provided you give appropriate credit.
 - **Email:**  [Mary Muraguri](mailto:marymuraguri27@gmail.com)
 
 ---  
-&copy; August 18, 2025 - Monday | All rights reserved.
+&copy; **August 18, 2025 - Monday** | All rights reserved.  
+
+> Last edited on *March 10, 2026 - Tuesday.*
